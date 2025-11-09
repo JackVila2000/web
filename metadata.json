@@ -1,0 +1,5 @@
+{
+  "name": "Bohemias89",
+  "description": "Una aplicación de gestión de pedidos para restaurantes que permite al mozo registrar pedidos y enviarlos a la cocina, donde los cocineros pueden ver y actualizar el estado de cada plato. El sistema funciona en una red local simulada.",
+  "requestFramePermissions": []
+}
